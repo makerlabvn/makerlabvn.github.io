@@ -10,7 +10,7 @@
         },
         "platforms": [
           {
-            "name": "MakerLab.vn Board AVR",
+            "name": "MakerLab.vn AVR Boards",
             "architecture": "avr",
             "version": "1.0.1",
             "category": "Contributed",
@@ -39,7 +39,7 @@
             ]
           },
           {
-            "name": "MakerLab.vn Board AVR",
+            "name": "MakerLab.vn AVR Boards",
             "architecture": "avr",
             "version": "1.0.2",
             "category": "Contributed",
@@ -68,7 +68,7 @@
             ]
           },
           {
-            "name": "MakerLab.vn Board AVR",
+            "name": "MakerLab.vn AVR Boards",
             "architecture": "avr",
             "version": "1.0.3-beta.0",
             "category": "Contributed",
@@ -97,7 +97,7 @@
             ]
           },
           {
-            "name": "MakerLab.vn Board AVR",
+            "name": "MakerLab.vn AVR Boards",
             "architecture": "avr",
             "version": "1.0.3",
             "category": "Contributed",
