@@ -74,6 +74,39 @@
                 "version": "6.3.0-arduino17"
               }
             ]
+          },
+          {
+            "name": "MakerLab.vn AVR Boards",
+            "architecture": "avr",
+            "version": "1.0.5",
+            "category": "Contributed",
+            "help": {
+              "online": "https://wiki.makerlab.vn/index.php/Main_Page"
+            },
+            "url": "https://github.com/ardujno/cores/releases/download/Arduino/ardujno-1.0.5.zip",
+            "archiveFileName": "ardujno-1.0.5.zip",
+            "checksum": "SHA-256:764B2C0177B3F239577DE2A8D18F596DF7EE0AD82D7B06B13FE87ECF78B3685F",
+            "size": "8653312",
+            "boards": [
+              {"name": "Vietduino Uno"},
+              {"name": "Vietduino Mega 2560"},
+              {"name": "Arduino Uno"},
+              {"name": "Arduino Mega2560"},
+              {"name": "Arduino Nano"},
+              {"name": "Arduino Pro or Pro Mini"}
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "makerlabvn",
+                "name": "avr-gcc",
+                "version": "7.3.0-atmel3.6.1-arduino7"
+              },
+              {
+                "packager": "makerlabvn",
+                "name": "avrdude",
+                "version": "6.3.0-arduino17"
+              }
+            ]
           }
         ],
         "tools":
