@@ -85,8 +85,8 @@
             },
             "url": "https://github.com/ardujno/cores/releases/download/Arduino/ardujno-1.0.5.zip",
             "archiveFileName": "ardujno-1.0.5.zip",
-            "checksum": "SHA-256:764B2C0177B3F239577DE2A8D18F596DF7EE0AD82D7B06B13FE87ECF78B3685F",
-            "size": "8653312",
+            "checksum": "SHA-256:289EC5B7B89E805D8FF7609CEF5B9AAAE59F05903D21500AC4DA6D777D91FBF9",
+            "size": "8650158",
             "boards": [
               {"name": "Vietduino Uno"},
               {"name": "Vietduino Mega 2560"},
