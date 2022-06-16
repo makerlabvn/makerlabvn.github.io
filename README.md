@@ -1,7 +1,10 @@
 ## History
 ----
+### Version 1.0.8
+- Change MKL to MKE
+- Fix bug EEPROM
 
-### Version 1.0.6
+### Version 1.0.7
 - Add **Adafruit_DHT library**, Remove **DHT_NoneBlocking**
 - Edit **MKL-MKL-S14_DHT11_temperature_and_humidity_sensor_Serial.ino**
 
